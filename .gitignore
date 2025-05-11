@@ -1,0 +1,6 @@
+.env
+__pycache__/
+venv/
+output.txt
+subtitle.ass
+subtitle.srt
